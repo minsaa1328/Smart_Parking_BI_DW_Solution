@@ -9,9 +9,3 @@ Business Intelligence and Data Warehouse solution developed for smart parking an
 - SSAS
 - Power BI
 - Excel
-
-## Documentation
-- [Project Report](docs/Project_Report.pdf)
-- [Technical Documentation](docs/Technical_Documentation.pdf)
-
-## Dashboard Preview
